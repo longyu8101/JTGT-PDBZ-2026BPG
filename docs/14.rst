@@ -11,9 +11,9 @@
 .. raw:: html
 
  <p style="text-align:justify"><a href="#id14.1.1"> 14.1.1</a> <span id="id14.1.1"> 构件功能状况评定应综合考虑构件的使用功能、安全性和耐久性等因素。</span></p>
- <p style="text-align:justify"><a href="#id14.1.2"> 14.1.2</a> <span id="id14.1.2"> 构件功能状况评定应综合考虑构件的使用功能、安全性和耐久性等因素。</span></p>
- <p style="text-align:justify;" >条文说明：<br/>本标准列出常用桥梁构件的功能状况评定标度，其他特殊情况需要具备的功能或本标准中未列出的特殊构件，参照表 3.2.3 的原则单独制定功能状况评定标度，并在检查评定报告中对制定依据予以说明。</p>
- <p style="text-align:justify"><a href="#id14.1.3"> 14.1.3</a> <span id="id14.1.3"> 构件功能状况评定应综合考虑构件的使用功能、安全性和耐久性等因素。</span></p>
+ <p style="text-align:justify"><a href="#id14.1.2"> 14.1.2</a> <span id="id14.1.2"> 本标准未列出的功能或构件应根据构件自身功能特性，应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/03.html#id3.2.2">3.2.2 条</a>确定评定标度并说明制定依据。</span></p>
+ <p style="text-align:justify;" >条文说明：<br/>本标准列出常用桥梁构件的功能状况评定标度，其他特殊情况需要具备的功能或本标准中未列出的特殊构件，参照<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/03.html#B3.2.3">表 3.2.3 </a>的原则单独制定功能状况评定标度，并在检查评定报告中对制定依据予以说明。</p>
+ <p style="text-align:justify"><a href="#id14.1.3"> 14.1.3</a> <span id="id14.1.3"> 构件发生明显异常时，可按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/FLA.html">附录 A</a>开展专项检查论证构件功能异常程度。</span></p>
 
 
 14.2 桥面系

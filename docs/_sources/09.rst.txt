@@ -22,13 +22,13 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id9.2.1"> 9.2.1</a> <span id="id9.2.1"> 预应力混凝土梁结构性缺损评定应按本标准 6.2.11 条执行。</span></p>
- <p style="text-align:justify"><a href="#id9.2.2"> 9.2.2</a> <span id="id9.2.2"> 钢箱梁结构性缺损评定应按本标准 6.2.12 条执行。</span></p>
- <p style="text-align:justify"><a href="#id9.2.3"> 9.2.3</a> <span id="id9.2.3"> 钢桁梁结构性缺损评定应按本标准 6.2.13 条执行。</span></p>
- <p style="text-align:justify"><a href="#id9.2.4"> 9.2.4</a> <span id="id9.2.4"> 钢板梁结构性缺损评定应按本标准 6.2.14 条执行。</span></p>
- <p style="text-align:justify"><a href="#id9.2.5"> 9.2.5</a> <span id="id9.2.5"> 加钢—混凝土组合梁结构性缺损评定应按本标准 6.2.15 条执行。</span></p>
- <p style="text-align:justify"><a href="#id9.2.6"> 9.2.6</a> <span id="id9.2.6"> 混凝土桥面板结构性缺损评定应按本标准 6.2.1 条执行。</span></p>
- <p style="text-align:justify"><a href="#id9.2.7"> 9.2.7</a> <span id="id9.2.7"> 板桁分离式桥面板支座结构性缺损评定应按本标准 6.5.1 执行。</span></p>
+ <p style="text-align:justify"><a href="#id9.2.1"> 9.2.1</a> <span id="id9.2.1"> 预应力混凝土梁结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.11">6.2.11条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id9.2.2"> 9.2.2</a> <span id="id9.2.2"> 钢箱梁结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.12">6.2.12条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id9.2.3"> 9.2.3</a> <span id="id9.2.3"> 钢桁梁结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.13">6.2.13条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id9.2.4"> 9.2.4</a> <span id="id9.2.4"> 钢板梁结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.14">6.2.14条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id9.2.5"> 9.2.5</a> <span id="id9.2.5"> 加钢—混凝土组合梁结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.15">6.2.15条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id9.2.6"> 9.2.6</a> <span id="id9.2.6"> 混凝土桥面板结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.1">6.2.1条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id9.2.7"> 9.2.7</a> <span id="id9.2.7"> 板桁分离式桥面板支座结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.5.1">6.5.1</a>执行。</span></p>
  
 
 9.3 吊索及索夹
@@ -571,7 +571,7 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id9.6.1"> 9.6.1</a> <span id="id9.6.1"> 主支座、抗风支座结构性缺损评定应按本标准 6.5 节执行。</span></p>
+ <p style="text-align:justify"><a href="#id9.6.1"> 9.6.1</a> <span id="id9.6.1"> 主支座、抗风支座结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6">6.5 节</a>执行。</span></p>
  <p style="text-align:justify"><a href="#id9.6.2"> 9.6.2</a> <span id="id9.6.2"> 梁端阻尼器结构性缺损评定应按<a href="#B9.6.2">表9.6.2</a> 执行。</span></p>
  <table id="biaoge" style="font-family:times new roman">
 
@@ -607,7 +607,7 @@
   	      </tr> 
           </table>       
    <p style="text-indent:2em;" ><font size="2"> </font></p> 
- <p style="text-align:justify"><a href="#id9.6.3"> 9.6.3</a> <span id="id9.6.3"> 纵向水平拉索、纵向弹性支座、中央扣等构件结构性缺损评定应按本标准 3.2.2 条确定评定标度。</span></p>
+ <p style="text-align:justify"><a href="#id9.6.3"> 9.6.3</a> <span id="id9.6.3"> 纵向水平拉索、纵向弹性支座、中央扣等构件结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/03.html#id3.2.2">3.2.2条</a>确定评定标度。</span></p>
 
 
 9.7 自锚式悬索桥锚固系统

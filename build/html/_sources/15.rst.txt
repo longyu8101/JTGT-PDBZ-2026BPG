@@ -19,7 +19,6 @@
  <li> 桥下空间占用。</li>
  </ol>
  <p style="text-align:justify"><a href="#id15.1.2"> 15.1.2</a> <span id="id15.1.2"> 构件影响状况评定应按照缺损发展影响、缺损致灾可能、功能丧失致灾可能和发生灾害影响等方面按照<a href="#B15.1.2">表 15.1.2</a> 执行。</span></p>
- <p style="text-align:justify"><a href="#id4.1.2"> 4.1.2</a> <span id="id4.1.2"> 混凝土构件耐久性缺陷评定应按<a href="#B4.1.2">表4.1.2</a>执行。</span></p>
 
   <style>
      #biaoge {
@@ -88,8 +87,8 @@
    <p style="text-indent:2em;" > </font></p>
  <p style="text-align:justify"><a href="#id15.1.3"> 15.1.3</a> <span id="id15.1.3"> 评定构件缺损发展稳定的情形应经过可靠论证，明确缺损的诱发因素并确保长期稳定方可判定，并在后期持续跟踪缺损的发展变化。</span></p>
  <p style="text-align:justify"><a href="#id15.1.4"> 15.1.4</a> <span id="id15.1.4"> 缺损致灾可能和功能丧失致灾可能宜按<a href="#id3"> 15.2 </a>和 <a href="#id4"> 15.3 </a>评定。必要时可参考附录 A 开展专项检查论证缺损或功能异常对结构安全运行的影响。</span></p>
- <p style="text-align:justify"><a href="#id15.1.5"> 15.1.5</a> <span id="id15.1.5"> 本标准未列出的其他影响因素或构件，可按照表 3.2.4 制定相应评定标度并说明制定依据。</span></p>
- <p style="text-align:justify;" >条文说明：<br/>本标准列出常用桥梁构件的影响状况评定标度，其他特殊情况可能造成的影响或本标准中未列出的特殊构件，参照本标准 3.2.4 条单独制定影响状况评定标度，并在检查评定报告中对制定依据予以说明。</p>
+ <p style="text-align:justify"><a href="#id15.1.5"> 15.1.5</a> <span id="id15.1.5"> 本标准未列出的其他影响因素或构件，可按照<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/03.html#B3.2.4">表 3.2.4</a> 制定相应评定标度并说明制定依据。</span></p>
+ <p style="text-align:justify;" >条文说明：<br/>本标准列出常用桥梁构件的影响状况评定标度，其他特殊情况可能造成的影响或本标准中未列出的特殊构件，参照本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/03.html#id3.2.4">3.2.4 条</a>单独制定影响状况评定标度，并在检查评定报告中对制定依据予以说明。</p>
 
 15.2 伸缩缝装置
 ----------------------

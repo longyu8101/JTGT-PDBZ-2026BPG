@@ -18,10 +18,10 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id8.2.1"> 8.2.1</a> <span id="id8.2.1"> 钢筋混凝土肋拱圈结构性缺损评定应按本标准 7.2.4 条执行。</span></p>
- <p style="text-align:justify"><a href="#id8.2.2"> 8.2.2</a> <span id="id8.2.2"> 钢筋混凝土箱形拱圈结构性缺损评定应按本标准 7.2.5 条执行。</span></p>
- <p style="text-align:justify"><a href="#id8.2.3"> 8.2.3</a> <span id="id8.2.3"> 钢箱拱圈、钢桁拱圈结构性缺损评定应按本标准 7.2.9 条执行。</span></p>
- <p style="text-align:justify"><a href="#id8.2.4"> 8.2.4</a> <span id="id8.2.4"> 钢管混凝土拱圈结构性缺损评定应按本标准 7.2.10 条执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.1"> 8.2.1</a> <span id="id8.2.1"> 钢筋混凝土肋拱圈结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/07.html#id7.2.4">7.2.4条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.2"> 8.2.2</a> <span id="id8.2.2"> 钢筋混凝土箱形拱圈结构性缺损评定应按本标准 <a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/07.html#id7.2.5">7.2.5条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.3"> 8.2.3</a> <span id="id8.2.3"> 钢箱拱圈、钢桁拱圈结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/07.html#id7.2.9">7.2.9条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.2.4"> 8.2.4</a> <span id="id8.2.4"> 钢管混凝土拱圈结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/07.html#id7.2.10">7.2.10条</a>执行。</span></p>
 
 8.3 横向联系
 ---------------------------------
@@ -146,8 +146,8 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id8.4.1"> 8.4.1</a> <span id="id8.4.1"> 钢筋混凝土系杆结构性缺损应按本标准 6.2.6 条评定。</span></p>
- <p style="text-align:justify"><a href="#id8.4.2"> 8.4.2</a> <span id="id8.4.2"> 预应力钢筋混凝土系杆结构性缺损应按本标准 6.2.7 条评定。</span></p>
+ <p style="text-align:justify"><a href="#id8.4.1"> 8.4.1</a> <span id="id8.4.1"> 钢筋混凝土系杆结构性缺损应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.6">6.2.6条</a>评定。</span></p>
+ <p style="text-align:justify"><a href="#id8.4.2"> 8.4.2</a> <span id="id8.4.2"> 预应力钢筋混凝土系杆结构性缺损应按本标准 <a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.7">6.2.7条</a>评定。</span></p>
  <p style="text-align:justify"><a href="#id8.4.3"> 8.4.3</a> <span id="id8.4.3"> 系杆索结构性缺损评定应按<a href="#B8.4.3">表8.4.3</a> 执行。</span></p>
  <table id="biaoge" style="font-family:times new roman">
 
@@ -331,9 +331,9 @@
  </table> 
   <p style="text-indent:2em;" ><font size="2"> </font></p> 
  <p style="text-align:justify;" >条文说明：<br/> 部分吊索设置通长钢套管并与拱圈和主梁焊接，检查时应与刚性吊杆区分。</p>
- <p style="text-align:justify"><a href="#id8.5.3"> 8.5.3</a> <span id="id8.5.3"> 钢筋混凝土立柱结构性缺损评定应按本标准 7.3.2 条执行。</span></p>
- <p style="text-align:justify"><a href="#id8.5.4"> 8.5.4</a> <span id="id8.5.4"> 钢立柱结构性缺损评定应按本标准 7.3.3 条执行。</span></p>
- <p style="text-align:justify"><a href="#id8.5.5"> 8.5.5</a> <span id="id8.5.5"> 钢管混凝土立柱结构性缺损评定应按本标准 7.3.4 条执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.5.3"> 8.5.3</a> <span id="id8.5.3"> 钢筋混凝土立柱结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/07.html#id7.3.2">7.3.2条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.5.4"> 8.5.4</a> <span id="id8.5.4"> 钢立柱结构性缺损评定应按本标准 <a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/07.html#id7.3.3">7.3.3条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.5.5"> 8.5.5</a> <span id="id8.5.5"> 钢管混凝土立柱结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/07.html#id7.3.4">7.3.4条</a>执行。</span></p>
 
  
 
@@ -531,9 +531,9 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id8.7.1"> 8.7.1</a> <span id="id8.7.1"> 整体式实心板结构性缺损评定应按本标准 6.2.1 条执行。</span></p>
- <p style="text-align:justify"><a href="#id8.7.2"> 8.7.2</a> <span id="id8.7.2"> 装配式实心板结构性缺损评定应按本标准 6.2.2 条执行，铰缝结构性缺损应按本标准 6.3.1 条执行。</span></p>
- <p style="text-align:justify"><a href="#id8.7.3"> 8.7.3</a> <span id="id8.7.3"> 钢筋混凝土空心板结构性缺损评定应按本标准 6.2.4 条执行，铰缝结构性缺损应按本标准 6.3.1 条执行。</span></p>
- <p style="text-align:justify"><a href="#id8.7.4"> 8.7.4</a> <span id="id8.7.4"> 钢筋混凝土肋梁结构性缺损评定应按本标准 6.2.6 条执行，横隔板结构性缺损应按本标准 6.5.1 条执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.7.1"> 8.7.1</a> <span id="id8.7.1"> 整体式实心板结构性缺损评定应按本标准 <a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.1">6.2.1条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.7.2"> 8.7.2</a> <span id="id8.7.2"> 装配式实心板结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.2">6.2.2条</a>执行，铰缝结构性缺损应按本标准 <a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.3.1">6.3.1条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.7.3"> 8.7.3</a> <span id="id8.7.3"> 钢筋混凝土空心板结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.4">6.2.4条</a>执行，铰缝结构性缺损应按本标准 <a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.3.1">6.3.1条</a>执行。</span></p>
+ <p style="text-align:justify"><a href="#id8.7.4"> 8.7.4</a> <span id="id8.7.4"> 钢筋混凝土肋梁结构性缺损评定应按本标准<a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.2.6">6.2.6条</a>执行，横隔板结构性缺损应按本标准 <a href="https://jtgt-pdbz-2026bpg.readthedocs.io/zh-cn/latest/06.html#id6.5.1">6.5.1条</a>执行。</span></p>
 
  
