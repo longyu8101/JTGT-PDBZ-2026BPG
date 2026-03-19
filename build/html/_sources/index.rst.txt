@@ -16,28 +16,10 @@
  <b><br/><br/><font size="3">  Standards for Technical Condition Evaluation of Highway Bridges </font></b>
 
 
-  <b><br/><br/><br/><font size="4"> JTG/T H21-2011 </font></b>
+  <b><br/><br/><br/><font size="4"> JTG/T 52XX-2026（报批稿） </font></b>
 
 
- 
 
-
- <body>
- <table border="0" style="font-family:times new roman" >
- <tr>
-  <td><font size="4"><br/><br/>主编单位:</font></td>
-  <td><font size="4"><br/><br/>交通运输部公路科学研究院</font></td>
- </tr>
- <tr>
-  <td><font size="4"><br/>批准部门：</font></td>
-  <td><font size="4"><br/>中华人民共和国交通运输部</font></td>
- </tr>
- <tr>
-  <td><font size="4"><br/>实施日期：</font></td>
-  <td><font size="4"><br/>2011年09月01日</font></td>
- </tr>
- </table>
-	</body>
 
 .. raw:: html
 
@@ -52,9 +34,9 @@
     <div id="abc"></div>
  </body>
 
+ <p><b><font size="4">××××-××-××发布&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  2026-02-11</font></b></p>
 
-
- <p><b><font size="4">人民交通出版社</font></b></p>
+ <p><b><font size="4">中华人民共和国交通运输部发布</font></b></p>
 
 
 
@@ -64,7 +46,6 @@
     :maxdepth: 3
     :hidden:
     
-    gg
     qy
     01
     02
@@ -76,23 +57,15 @@
     08
     09
     10
+    11
+    12
+    13
+    14
+    15
     FLA
-    ycsm
+    FLB
+    FLC
 
 
-    
-.. toctree::
-    :caption: 条文说明
-    :maxdepth: 3
-    :hidden:
-    
-    twsm/t01
-    twsm/t03
-    twsm/t04
-    twsm/t05
-    twsm/t06
-    twsm/t07
-    twsm/t08
-    twsm/t09
-    twsm/t10
   
+ 

@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '公路桥梁技术状况评定标准<br /><br />JTG/T H21-2011'
+project = '公路桥梁技术状况评定标准<br /><br />JTG/T 52XX-2026（报批稿）'
 copyright = ' ' 
 
 # -- General configuration ---------------------------------------------------
@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # html_theme = 'sphinx_book_theme'
 
-html_title = "公路桥梁技术状况评定标准 JTG/T H21-2011"
+html_title = "公路桥梁技术状况评定标准 JTG/T 52XX-2026（报批稿）"
 # html_logo = "_static/logo.png"
 html_favicon = "_static/logo.png"
 
